@@ -1,0 +1,193 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "The Future of AI Technology",
+      "author": "John Smith",
+      "content": "Artificial Intelligence (AI) continues to shape our future with advancements in automation, machine learning, and data processing. From healthcare to transportation, AI is transforming industries and revolutionizing the way we live. However, ethical concerns about privacy and job displacement remain challenges that need addressing.",
+      "viewcount": 1500
+    },
+    {
+      "id": "2",
+      "title": "10 Tips for Remote Work Productivity",
+      "author": "Jane Doe",
+      "content": "Working remotely can be challenging, but with the right habits, you can excel. Create a dedicated workspace, maintain a consistent schedule, and minimize distractions. Regular breaks and clear communication with your team are also key to staying productive.",
+      "viewcount": 1200
+    },
+    {
+      "id": "3",
+      "title": "Top 5 Travel Destinations for 2025",
+      "author": "Alex Taylor",
+      "content": "Looking to plan your next adventure? In 2025, consider visiting Japan for its cherry blossoms, Iceland for breathtaking landscapes, or Italy for cultural and culinary delights. These destinations promise unforgettable experiences.",
+      "viewcount": 950
+    },
+    {
+      "id": "4",
+      "title": "How to Save Money on Groceries",
+      "author": "Maria Gonzalez",
+      "content": "Grocery bills can add up quickly, but simple strategies like meal planning, buying in bulk, and shopping with a list can help you save. Avoid impulse buys, and consider seasonal produce for the best deals.",
+      "viewcount": 870
+    },
+    {
+      "id": "5",
+      "title": "The Benefits of Daily Meditation",
+      "author": "Michael Johnson",
+      "content": "Daily meditation can reduce stress, improve focus, and enhance overall well-being. Just 10 minutes a day can make a significant difference. Start with guided meditations and gradually build a routine that works for you.",
+      "viewcount": 1100
+    },
+    {
+      "id": "6",
+      "title": "Exploring the World of NFTs",
+      "author": "Emily Brown",
+      "content": "Non-Fungible Tokens (NFTs) have taken the digital art world by storm. As a unique form of ownership, NFTs are revolutionizing how creators monetize their work. However, understanding the risks and environmental concerns is crucial.",
+      "viewcount": 650
+    },
+    {
+      "id": "7",
+      "title": "5 Easy Recipes for Busy Weeknights",
+      "author": "Chris Wilson",
+      "content": "Struggling to find time to cook? These five quick and delicious recipes are perfect for busy evenings. From pasta dishes to one-pan meals, you can prepare healthy dinners in under 30 minutes.",
+      "viewcount": 920
+    },
+    {
+      "id": "8",
+      "title": "The Rise of Electric Vehicles",
+      "author": "Sophia Davis",
+      "content": "Electric vehicles (EVs) are becoming increasingly popular as people look for eco-friendly alternatives to traditional cars. With advancements in battery technology and charging infrastructure, EVs are more accessible than ever.",
+      "viewcount": 1450
+    },
+    {
+      "id": "9",
+      "title": "How to Build a Morning Routine",
+      "author": "Liam Martinez",
+      "content": "A strong morning routine sets the tone for the day. Start by waking up early, exercising, and planning your priorities. Incorporating mindfulness practices like journaling or meditation can also help boost your productivity.",
+      "viewcount": 1020
+    },
+    {
+      "id": "10",
+      "title": "The Best Apps for Budgeting",
+      "author": "Olivia Thompson",
+      "content": "Managing your finances has never been easier with budgeting apps. Tools like Mint, YNAB, and PocketGuard help track your expenses, create budgets, and save for your financial goals. Find the one that suits your needs.",
+      "viewcount": 800
+    },
+    {
+      "id": "11",
+      "title": "The Health Benefits of Drinking Tea",
+      "author": "Ethan White",
+      "content": "Tea is more than a comforting beverage; it offers numerous health benefits. Green tea is rich in antioxidants, chamomile promotes relaxation, and ginger tea aids digestion. Explore different types to enhance your wellness.",
+      "viewcount": 700
+    },
+    {
+      "id": "12",
+      "title": "Beginner's Guide to Gardening",
+      "author": "Ava Lewis",
+      "content": "Gardening can be a rewarding hobby for beginners. Start with easy-to-grow plants like herbs or succulents. Learn about soil types, watering schedules, and sunlight requirements to help your garden thrive.",
+      "viewcount": 600
+    },
+    {
+      "id": "13",
+      "title": "The Importance of Cybersecurity",
+      "author": "Noah Harris",
+      "content": "In a digital age, cybersecurity is essential to protect your personal and professional data. Use strong passwords, enable two-factor authentication, and stay vigilant against phishing scams to safeguard your information.",
+      "viewcount": 1300
+    },
+    {
+      "id": "14",
+      "title": "Why Reading Fiction Boosts Creativity",
+      "author": "Mia Clark",
+      "content": "Fiction allows us to explore new perspectives and ignite our imagination. Studies show that reading stories can improve empathy, critical thinking, and problem-solving skills. Add fiction to your reading list today.",
+      "viewcount": 950
+    },
+    {
+      "id": "15",
+      "title": "Understanding Climate Change",
+      "author": "James Scott",
+      "content": "Climate change is one of the most pressing issues of our time. Rising temperatures, extreme weather, and melting ice caps highlight the need for sustainable practices and policies to combat its effects.",
+      "viewcount": 1400
+    },
+    {
+      "id": "16",
+      "title": "How to Master Time Management",
+      "author": "Ella Walker",
+      "content": "Time management is a skill that can help you achieve your goals efficiently. Prioritize tasks, use tools like calendars, and eliminate distractions to make the most of your day. Consistency is key.",
+      "viewcount": 880
+    },
+    {
+      "id": "17",
+      "title": "Exploring Space: Recent Discoveries",
+      "author": "Logan Allen",
+      "content": "The universe continues to captivate us with its mysteries. From new exoplanets to advancements in telescope technology, recent discoveries are expanding our understanding of space and our place in it.",
+      "viewcount": 1150
+    },
+    {
+      "id": "18",
+      "title": "The Art of Minimalist Living",
+      "author": "Charlotte Adams",
+      "content": "Minimalism isn't just about decluttering; it's a lifestyle that promotes intentional living. By focusing on what truly matters, you can reduce stress, save money, and create a more meaningful life.",
+      "viewcount": 780
+    },
+    {
+      "id": "19",
+      "title": "How to Stay Motivated During Workouts",
+      "author": "Benjamin Carter",
+      "content": "Maintaining workout motivation can be tough. Set clear fitness goals, track your progress, and switch up your routine to keep things exciting. Finding a workout buddy can also provide accountability and encouragement.",
+      "viewcount": 970
+    },
+    {
+      "id": "20",
+      "title": "Investing Basics for Beginners",
+      "author": "Harper Evans",
+      "content": "Investing doesn't have to be intimidating. Start by understanding basic concepts like stocks, bonds, and mutual funds. Diversify your portfolio, and focus on long-term growth to build financial security.",
+      "viewcount": 1250
+    },
+    {
+      "id": "d4ca",
+      "title": "69",
+      "content": "ds",
+      "author": "wew",
+      "viewcount": "9861"
+    },
+    {
+      "id": "7ff3",
+      "title": "123",
+      "content": "12313",
+      "author": "12312",
+      "viewcount": "9861"
+    },
+    {
+      "id": "ce21",
+      "title": "123",
+      "content": "12313",
+      "author": "12312",
+      "viewcount": "9861"
+    },
+    {
+      "id": "40d3",
+      "title": "123",
+      "content": "12313",
+      "author": "12312",
+      "viewcount": "9861"
+    },
+    {
+      "id": "eaee",
+      "title": "4545",
+      "content": "122",
+      "author": "122",
+      "viewcount": "690"
+    },
+    {
+      "id": "7a15",
+      "title": "wewe",
+      "content": "wewe",
+      "author": "wewe",
+      "viewcount": "1"
+    },
+    {
+      "id": "ad05",
+      "title": "wewe1414",
+      "content": "sdadd",
+      "author": "asda",
+      "viewcount": "1000"
+    }
+  ]
+}
